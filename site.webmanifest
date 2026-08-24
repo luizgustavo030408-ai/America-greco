@@ -1,0 +1,22 @@
+{
+  "name": "Academia América Greco",
+  "short_name": "América Greco",
+  "description": "Academia premium de alta performance em Boa Vista, Roraima.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5F0E8",
+  "theme_color": "#2C1F14",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
